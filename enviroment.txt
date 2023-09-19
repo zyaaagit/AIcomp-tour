@@ -1,0 +1,6 @@
+ckip-transformers
+setuptools wheel
+'spacy[apple]'
+
+'spacy[transformers]'
+pkuseg
